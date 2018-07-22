@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Vzorový program python
+Author: Miroslav Janota
 """
 
 def vypis(a):
