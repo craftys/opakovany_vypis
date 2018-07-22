@@ -8,5 +8,5 @@ def vypis(a):
         print("číslo -", b)
         
 a=int(input("Zadej počet opakování: "))
-vypis(a)
+vypis(2*a)
        
