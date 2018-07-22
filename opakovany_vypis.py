@@ -2,6 +2,7 @@
 """
 Vzorový program python
 Name: opakovany_vypis
+Author: Miroslav Janota
 """
 
 def vypis(a):
