@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Vzorový program python
+Name: opakovany_vypis
 """
 
 def vypis(a):
