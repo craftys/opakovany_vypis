@@ -8,7 +8,10 @@ Author: Miroslav Janota
 def vypis(a):
     for b in range(a):
         print("číslo -", b)
-        
-a=int(input("Zadej počet opakování: "))
-vypis(2*a)
+
+def main():
+    a=int(input("Zadej počet opakování: "))
+    vypis(2*a)
        
+if __name__ == '__main__':
+    main()
